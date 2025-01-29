@@ -9,7 +9,7 @@ The goal of this project is to control a Tinkerkit Braccio Robot using C++ and P
 - Control the Tinkerkit Braccio Robot with a Python-based graphical user interface
 
 <img src="download.png" alt="Description of the image" width="500"/>
-<img src="download2.png" alt="Description of the image" width="500"/>
+<img src="download1.png" alt="Description of the image" width="500"/>
 
 ## Necessary Components (images)
 -  
@@ -22,7 +22,7 @@ The goal of this project is to control a Tinkerkit Braccio Robot using C++ and P
 ## Conclusion
 TThis project allows for controlling the Tinkerkit Braccio Robot with a Python-based graphical user interface
 
-<img src="download3.png" alt="Description of the image" width="500"/>
+<img src="download2.png" alt="Description of the image" width="500"/>
 
 *Representation of the project assembly*
 
